@@ -1,4 +1,4 @@
-Calculator for Magic: The Gathering's party mechanic in Zendicar Rising, available here: https://wrmacrae.github.io/party-calc
+Tool for playing 100-Card Commander in MTG Arena (kinda): https://wrmacrae.github.io/mini-deck
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
