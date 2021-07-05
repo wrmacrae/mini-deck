@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mini-deck/static/css/main.2f0833a7.chunk.css",
+    "main.js": "/mini-deck/static/js/main.84fb6fce.chunk.js",
+    "main.js.map": "/mini-deck/static/js/main.84fb6fce.chunk.js.map",
+    "runtime-main.js": "/mini-deck/static/js/runtime-main.a47cd4ce.js",
+    "runtime-main.js.map": "/mini-deck/static/js/runtime-main.a47cd4ce.js.map",
+    "static/js/2.ad6118a0.chunk.js": "/mini-deck/static/js/2.ad6118a0.chunk.js",
+    "static/js/2.ad6118a0.chunk.js.map": "/mini-deck/static/js/2.ad6118a0.chunk.js.map",
+    "index.html": "/mini-deck/index.html",
+    "precache-manifest.7a033e11f6fc901dafd9f36d673c53ca.js": "/mini-deck/precache-manifest.7a033e11f6fc901dafd9f36d673c53ca.js",
+    "service-worker.js": "/mini-deck/service-worker.js",
+    "static/css/main.2f0833a7.chunk.css.map": "/mini-deck/static/css/main.2f0833a7.chunk.css.map",
+    "static/js/2.ad6118a0.chunk.js.LICENSE.txt": "/mini-deck/static/js/2.ad6118a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a47cd4ce.js",
+    "static/js/2.ad6118a0.chunk.js",
+    "static/css/main.2f0833a7.chunk.css",
+    "static/js/main.84fb6fce.chunk.js"
+  ]
+}
