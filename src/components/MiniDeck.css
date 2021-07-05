@@ -1,0 +1,73 @@
+body {
+    --color-background:#22272b;
+    --color-on-background:#fff;
+    --color-layer-transparent:rgba(0,5,11,0.9);
+    --color-surface:#2c343a;
+    --color-primary:#67c2e4;
+    --color-on-primary:#fff;
+    --color-on-surface: #fff;
+}
+
+p {
+  text-align: left;  
+}
+
+.page {
+  width: 90%;
+}
+
+.explanation {
+  font-size: calc(7.5px + 1.5vmin);
+  width: 700px;
+  margin: 0 auto
+}
+
+.form {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.bot {
+  bottom: 5px;
+  position: fixed;
+}
+
+.legend {
+  display: inline;
+}
+
+.legendEntry {
+  display: inline;
+  margin: 1em;
+}
+
+.numbox {
+  margin-right: 10px;
+}
+
+.checkbox {
+  margin-right: 10px;
+}
+
+.tooltip {
+    border: 2px solid;
+    border-radius: 4px;
+    padding: 3px;
+    background-color: #111;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.9;
+}
+
+.text {
+  color: #fff;
+}
+
+.copy {
+    font-size: calc(10px + 2vmin);
+}
+
+textarea {
+  width: 300px;
+  height: 150px;
+}
